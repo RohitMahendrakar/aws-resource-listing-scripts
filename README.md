@@ -81,6 +81,6 @@ To install `jq` and `yq`:
 sudo yum install jq
 sudo yum install yq
 
-Please refer the screenshot folder for step by step guidance. 
+Please refer the Pics for your reference 
 
 
